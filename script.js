@@ -16,3 +16,9 @@ switch (grade) {
                     default:
                         console.log('Некорректная оценка');
 }
+let numb = 12
+if(numb > 8){
+    console.log(true);
+} else{
+    console.log(false);
+}
